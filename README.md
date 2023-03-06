@@ -1,3 +1,3 @@
-# C-example
+# C-example Palindrome
 
-#Palindrome
+## Palindrome program in C
