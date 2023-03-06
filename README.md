@@ -1,3 +1,3 @@
 # C-example
 
-##Palindrome
+#Palindrome
